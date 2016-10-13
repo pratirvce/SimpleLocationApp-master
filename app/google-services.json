@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "351091088955",
+    "firebase_url": "https://simplelocationapp-fc341.firebaseio.com",
+    "project_id": "simplelocationapp-fc341",
+    "storage_bucket": "simplelocationapp-fc341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351091088955:android:597a5216b72da837",
+        "android_client_info": {
+          "package_name": "com.sample.foo.simplelocationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351091088955-atpiv0rtbufmjja82a68s3hguqtckn8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcdJuJQBe-VNMBHDC53vPXjW9hE257KW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
